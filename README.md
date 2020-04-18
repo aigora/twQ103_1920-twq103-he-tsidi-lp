@@ -6,9 +6,9 @@ El principal objetivo de este programa es facilitar la preinscripción en la ETS
 
 ## Integrantes del equipo
 
-María Teresa Jiménez (maitejimenez)
-Laura Muñoz Martínez (lauramunozmartinez)
-Luis Rodríguez Vaquerizo (Sete484)
+- María Teresa Jiménez (maitejimenez)
+- Laura Muñoz Martínez (lauramunozmartinez)
+- Luis Rodríguez Vaquerizo (Sete484)
 
 ## Objetivos del trabajo
 

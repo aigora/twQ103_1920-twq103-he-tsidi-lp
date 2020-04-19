@@ -20,3 +20,6 @@ Nuestros objetivos con este programa son:
 - La función de inicio de sesión sirve para los alumnos ya registrados.
 - Para contactar con secretaría se ofrece un apartado de ayuda en el menú.
 
+## Ampliación objetivos
+-  Pensamos ampliar la opción de inicio de sesión pero estamos esperando a ver que se puede hacer con funciones para decir cual sería la    mejor idea y así poder utilizarlas.
+

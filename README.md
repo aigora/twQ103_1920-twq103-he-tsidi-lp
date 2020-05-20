@@ -16,10 +16,7 @@ Nuestros objetivos con este programa son:
 - Calcular la nota del estudiante que solicite el acceso a un grado de la ETSIDI.
 - Superada la nota mínima establecida por la facultad, el estudiante podrá elegir un grado e intentar matricularse.
 - De resultar apto para la titulación, el programa dará la opción al estudiante de registrarse.
-- En el registro se pedirán los datos del solicitante y se generará un número de matricula y un correo, todo ello se guardará en el fichero   correspondiente a la titulación.
+- En el registro se pedirán los datos del solicitante y se generará un número de matricula y un correo, todo ello se guardará en el fichero correspondiente a la titulación.
 - La función de inicio de sesión sirve para los alumnos ya registrados.
 - Para contactar con secretaría se ofrece un apartado de ayuda en el menú.
-
-## Ampliación objetivos
--  Pensamos ampliar la opción de inicio de sesión pero estamos esperando a ver que se puede hacer con funciones para decir cual sería la    mejor idea y así poder utilizarlas.
 
